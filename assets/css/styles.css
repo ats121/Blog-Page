@@ -1,0 +1,35 @@
+@import url(/assets/css/colors.css);
+@import url(/assets/css/grid.css);
+@import url(text.css);
+
+
+.card img {
+    width: 200px;
+}
+
+.card-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.click{
+    background-color: pink;
+    border-radius: 5px;
+}
+.header {
+    text-align: center;
+
+}
+
+.footer {
+    text-align: center;
+}
+
+.sidebar {
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+}
